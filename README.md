@@ -1,2 +1,2 @@
-# coq-extraction-sys
+# Extraction Sys
 Interface to native OCaml Sys library.
